@@ -11,7 +11,7 @@
 //                                                               //                   
 //                                                               //                   
 //                                                               //
-#include "../tamrin3/Polynomial.cpp"
+#include "Polynomial.cpp"
 void Polynomial::push_back(Term input)
 {
     Terms.push_back(input);
