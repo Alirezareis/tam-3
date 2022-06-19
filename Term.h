@@ -11,7 +11,7 @@
 //                                                               //                   
 //                                                               //                   
 //                                                               //
-#include "../tamrin3/Term.cpp"
+#include "Term.cpp"
 float Term::get_c()
 {
     return c;
