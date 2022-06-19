@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <windows.h>
-#include "../tamrin3/Term.h"
-#include "../tamrin3/Polynomial.h"
+#include "Term.h"
+#include "Polynomial.h"
 #include <fstream>
 using namespace std;
 int main()
